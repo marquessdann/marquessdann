@@ -1,8 +1,8 @@
 Oi! Sou o Daniel, Desenvolvedor Full Stack!
 
-- 👨🏻‍💻 Atualmente procurando por oportunidades na área de desenvolvimento full stack
-- 📚 Estudando JAVA
-- 😄 Pronouns: ele/dele
+- 👨🏻‍💻 Atualmente procurando por oportunidades na área de desenvolvimento full stack | Actively seeking full stack development opportunities
+- 📚 Estudando JAVA | Studying Java
+- 🎯 Em constante aprendizado sobre arquitetura de software, DevOps e cloud computing.
 
   <picture>
   <source
@@ -17,6 +17,9 @@ Oi! Sou o Daniel, Desenvolvedor Full Stack!
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marquessdann&stats_format=bytes)
+
+
+My programming languages
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,5 +42,5 @@ Oi! Sou o Daniel, Desenvolvedor Full Stack!
 
 ##
 
-<img src="https://raw.githubusercontent.com/marquessdann/marquessdann/output/snake.svg" alt="Snake animation" />
+
 
