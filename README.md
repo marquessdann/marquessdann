@@ -16,7 +16,6 @@ Oi! Sou o Daniel, Desenvolvedor Full Stack!
   <img src="https://github-readme-stats.vercel.app/api?username=marquessdann&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marquessdann&stats_format=bytes)
 
 
 My programming languages
