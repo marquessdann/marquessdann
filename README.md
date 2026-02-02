@@ -1,6 +1,6 @@
-Oi! Sou o Daniel, Desenvolvedor Full Stack!
+Oi! Sou o Daniel, Desenvolvedor back-end!
 
-- 👨🏻‍💻 Atualmente procurando por oportunidades na área de desenvolvimento full stack | Actively seeking full stack development opportunities
+- 👨🏻‍💻 Atualmente procurando por oportunidades na área de desenvolvimento back-end | Actively seeking back-end development opportunities
 - 📚 Estudando JAVA | Studying Java
 - 🎯 Em constante aprendizado sobre arquitetura de software, DevOps e cloud computing.
 
