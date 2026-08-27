@@ -1,8 +1,8 @@
 Oi! Sou o Daniel, Desenvolvedor back-end!
 
 - 👨🏻‍💻 Atualmente procurando por oportunidades na área de desenvolvimento | Actively seeking  development opportunities
-- 📚 Estudando JAVA | Studying Java
-- 🎯 Em constante aprendizado sobre arquitetura de software, DevOps e cloud computing.
+- 📚 Estudando JAVA e Python | Studying Java and Python
+- 🎯 Em constante aprendizado sobre arquitetura de software, e BackEnd.
 
   <picture>
   <source
