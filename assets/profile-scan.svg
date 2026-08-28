@@ -1,466 +1,87 @@
-<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
-
-<defs>
-
-  <linearGradient id="background" x1="0" y1="0" x2="1200" y2="430">
-    <stop offset="0%" stop-color="#020611"/>
-    <stop offset="50%" stop-color="#07101F"/>
-    <stop offset="100%" stop-color="#020611"/>
-  </linearGradient>
-
-  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#00FFFF"/>
-    <stop offset="50%" stop-color="#7C4DFF"/>
-    <stop offset="100%" stop-color="#00FFFF"/>
-  </linearGradient>
-
-  <linearGradient id="scanGradient" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#00FFFF" stop-opacity="0"/>
-    <stop offset="50%" stop-color="#00FFFF" stop-opacity="0.9"/>
-    <stop offset="100%" stop-color="#00FFFF" stop-opacity="0"/>
-  </linearGradient>
-
-  <filter id="cyanGlow" x="-100%" y="-100%" width="300%" height="300%">
-    <feGaussianBlur stdDeviation="5" result="blur"/>
-    <feMerge>
-      <feMergeNode in="blur"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
-
-  <filter id="purpleGlow" x="-100%" y="-100%" width="300%" height="300%">
-    <feGaussianBlur stdDeviation="3" result="blur"/>
-    <feMerge>
-      <feMergeNode in="blur"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
-
-  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-    <path
-      d="M 30 0 L 0 0 0 30"
-      fill="none"
-      stroke="#14233A"
-      stroke-width="1"
-    />
-  </pattern>
-
-</defs>
-
-
-<!-- FUNDO -->
-
-<rect
-  width="1200"
-  height="430"
-  rx="22"
-  fill="url(#background)"
-/>
-
-<rect
-  x="8"
-  y="8"
-  width="1184"
-  height="414"
-  rx="19"
-  stroke="#16365B"
-  stroke-width="2"
-/>
-
-<rect
-  x="25"
-  y="25"
-  width="1150"
-  height="380"
-  rx="16"
-  fill="url(#grid)"
-  opacity="0.22"
-/>
-
-
-<!-- LINHA SUPERIOR -->
-
-<rect
-  x="35"
-  y="32"
-  width="1130"
-  height="5"
-  rx="3"
-  fill="url(#neon)"
-  filter="url(#cyanGlow)"
->
-
-  <animate
-    attributeName="opacity"
-    values="0.55;1;0.55"
-    dur="2s"
-    repeatCount="indefinite"
-  />
-
-</rect>
-
-
-<!-- CABEÇALHO -->
-
-<text
-  x="55"
-  y="70"
-  fill="#00FFFF"
-  font-family="monospace"
-  font-size="18"
-  font-weight="700"
->
-
-PROFILE SCAN
-
-</text>
-
-<text
-  x="1140"
-  y="70"
-  text-anchor="end"
-  fill="#7991B7"
-  font-family="monospace"
-  font-size="13"
->
-
-IDENTITY // BACKEND
-
-</text>
-
-
-<!-- CARD ESQUERDO -->
-
-<rect
-  x="55"
-  y="95"
-  width="285"
-  height="245"
-  rx="18"
-  fill="#071222"
-  stroke="#15375B"
-/>
-
-<circle
-  cx="197"
-  cy="174"
-  r="55"
-  fill="#030812"
-  stroke="#00FFFF"
-  stroke-width="2"
-  filter="url(#cyanGlow)"
-/>
-
-<text
-  x="197"
-  y="187"
-  text-anchor="middle"
-  fill="#FFFFFF"
-  font-family="monospace"
-  font-weight="bold"
-  font-size="37"
->
-
-DM
-
-</text>
-
-
-<!-- SCANNER CIRCULAR -->
-
-<circle
-  cx="197"
-  cy="174"
-  r="68"
-  fill="none"
-  stroke="#00FFFF"
-  stroke-width="1"
-  stroke-dasharray="6 12"
-  opacity="0.45"
->
-
-  <animateTransform
-    attributeName="transform"
-    type="rotate"
-    from="0 197 174"
-    to="360 197 174"
-    dur="8s"
-    repeatCount="indefinite"
-  />
-
-</circle>
-
-
-<circle
-  cx="197"
-  cy="174"
-  r="74"
-  fill="none"
-  stroke="#7C4DFF"
-  stroke-width="1"
-  stroke-dasharray="2 15"
-  opacity="0.35"
->
-
-  <animateTransform
-    attributeName="transform"
-    type="rotate"
-    from="360 197 174"
-    to="0 197 174"
-    dur="12s"
-    repeatCount="indefinite"
-  />
-
-</circle>
-
-
-<!-- STATUS -->
-
-<rect
-  x="105"
-  y="262"
-  width="185"
-  height="38"
-  rx="19"
-  fill="#07101D"
-  stroke="#7C4DFF"
-/>
-
-<text
-  x="197"
-  y="286"
-  text-anchor="middle"
-  fill="#BDAAFF"
-  font-family="monospace"
-  font-size="14"
-  font-weight="bold"
->
-
-OPEN_TO_WORK
-
-</text>
-
-
-<text
-  x="197"
-  y="322"
-  text-anchor="middle"
-  fill="#607A9E"
-  font-family="monospace"
-  font-size="12"
->
-
-USER_ID :: MARQUESSDANN
-
-</text>
-
-
-<!-- DIVISÃO -->
-
-<line
-  x1="375"
-  y1="100"
-  x2="375"
-  y2="340"
-  stroke="#173352"
-/>
-
-
-<!-- DIREITA -->
-
-<text
-  x="410"
-  y="138"
-  fill="#FFFFFF"
-  font-family="monospace"
-  font-size="42"
-  font-weight="bold"
->
-
-DANIEL MARQUES
-
-</text>
-
-<text
-  x="410"
-  y="171"
-  fill="#91A8CB"
-  font-family="monospace"
-  font-size="18"
->
-
-BACKEND DEVELOPER // SOFTWARE ENGINEERING STUDENT
-
-</text>
-
-
-<!-- TAGS -->
-
-<rect x="410" y="196" width="110" height="31" rx="15" fill="#06111D" stroke="#00FFFF"/>
-<text x="465" y="216" text-anchor="middle" fill="#00FFFF" font-family="monospace" font-size="12">PYTHON</text>
-
-<rect x="532" y="196" width="95" height="31" rx="15" fill="#06111D" stroke="#7C4DFF"/>
-<text x="579" y="216" text-anchor="middle" fill="#C0B0FF" font-family="monospace" font-size="12">JAVA</text>
-
-<rect x="639" y="196" width="110" height="31" rx="15" fill="#06111D" stroke="#00FFFF"/>
-<text x="694" y="216" text-anchor="middle" fill="#00FFFF" font-family="monospace" font-size="12">FASTAPI</text>
-
-<rect x="761" y="196" width="140" height="31" rx="15" fill="#06111D" stroke="#7C4DFF"/>
-<text x="831" y="216" text-anchor="middle" fill="#C0B0FF" font-family="monospace" font-size="12">SPRING BOOT</text>
-
-<rect x="913" y="196" width="85" height="31" rx="15" fill="#06111D" stroke="#00FFFF"/>
-<text x="955" y="216" text-anchor="middle" fill="#00FFFF" font-family="monospace" font-size="12">LLMs</text>
-
-<rect x="1010" y="196" width="120" height="31" rx="15" fill="#06111D" stroke="#7C4DFF"/>
-<text x="1070" y="216" text-anchor="middle" fill="#C0B0FF" font-family="monospace" font-size="12">AI AGENTS</text>
-
-
-<!-- INFO -->
-
-<rect
-  x="410"
-  y="252"
-  width="720"
-  height="88"
-  rx="15"
-  fill="#071222"
-  stroke="#17385C"
-/>
-
-<text
-  x="435"
-  y="278"
-  fill="#607DAB"
-  font-family="monospace"
-  font-size="13"
->
-
-CURRENT FOCUS
-
-</text>
-
-<text
-  x="435"
-  y="301"
-  fill="#FFFFFF"
-  font-family="monospace"
-  font-size="15"
->
-
-Backend • APIs • Automation • Artificial Intelligence
-
-</text>
-
-<text
-  x="435"
-  y="325"
-  fill="#00FFFF"
-  font-family="monospace"
-  font-size="14"
->
-
-&gt; LLMs // MCP // Tool Calling // API Integration
-
-</text>
-
-
-<!-- ============================= -->
-<!-- SCAN LINE ANIMADA             -->
-<!-- ============================= -->
-
-<g>
-
-  <rect
-    x="50"
-    y="91"
-    width="1090"
-    height="34"
-    fill="url(#scanGradient)"
-    opacity="0.8"
-  >
-
-    <animate
-      attributeName="y"
-      values="91;315;91"
-      dur="3.2s"
-      repeatCount="indefinite"
-    />
-
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390">
+      <stop offset="0%" stop-color="#020611"/>
+      <stop offset="50%" stop-color="#07101F"/>
+      <stop offset="100%" stop-color="#020611"/>
+    </linearGradient>
+
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="50%" stop-color="#7C4DFF"/>
+      <stop offset="100%" stop-color="#00F7FF"/>
+    </linearGradient>
+
+    <linearGradient id="scanGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00FFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00FFFF" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#00FFFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#12233A" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="390" rx="24" fill="url(#bg)"/>
+  <rect x="10" y="10" width="1180" height="370" rx="20" stroke="#17365B" stroke-width="2"/>
+  <rect x="24" y="24" width="1152" height="342" rx="16" fill="url(#grid)" opacity="0.18"/>
+
+  <rect x="36" y="34" width="1128" height="5" rx="3" fill="url(#neon)" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
   </rect>
 
+  <text x="52" y="74" fill="#00F7FF" font-family="monospace" font-size="19" font-weight="700">PROFILE SCAN</text>
+  <text x="1144" y="74" text-anchor="end" fill="#7C97BC" font-family="monospace" font-size="13">IDENTITY // BACKEND // AI</text>
 
-  <rect
-    x="50"
-    y="105"
-    width="1090"
-    height="2"
-    fill="#00FFFF"
-    filter="url(#cyanGlow)"
-  >
+  <text x="88" y="150" fill="#FFFFFF" font-family="monospace" font-size="50" font-weight="700">DANIEL MARQUES</text>
+  <text x="88" y="184" fill="#9AB0D0" font-family="monospace" font-size="21">BACKEND DEVELOPER // SOFTWARE ENGINEERING STUDENT</text>
 
-    <animate
-      attributeName="y"
-      values="105;329;105"
-      dur="3.2s"
-      repeatCount="indefinite"
-    />
+  <rect x="88" y="210" width="170" height="36" rx="18" fill="#07101D" stroke="#00F7FF"/>
+  <text x="173" y="233" text-anchor="middle" fill="#00F7FF" font-family="monospace" font-size="14" font-weight="700">OPEN_TO_WORK</text>
 
+  <rect x="274" y="210" width="115" height="36" rx="18" fill="#07101D" stroke="#7C4DFF"/>
+  <text x="331.5" y="233" text-anchor="middle" fill="#C6B5FF" font-family="monospace" font-size="14" font-weight="700">PYTHON</text>
+
+  <rect x="402" y="210" width="98" height="36" rx="18" fill="#07101D" stroke="#00F7FF"/>
+  <text x="451" y="233" text-anchor="middle" fill="#00F7FF" font-family="monospace" font-size="14" font-weight="700">JAVA</text>
+
+  <rect x="513" y="210" width="120" height="36" rx="18" fill="#07101D" stroke="#7C4DFF"/>
+  <text x="573" y="233" text-anchor="middle" fill="#C6B5FF" font-family="monospace" font-size="14" font-weight="700">FASTAPI</text>
+
+  <rect x="646" y="210" width="155" height="36" rx="18" fill="#07101D" stroke="#00F7FF"/>
+  <text x="723.5" y="233" text-anchor="middle" fill="#00F7FF" font-family="monospace" font-size="14" font-weight="700">SPRING BOOT</text>
+
+  <rect x="816" y="210" width="95" height="36" rx="18" fill="#07101D" stroke="#7C4DFF"/>
+  <text x="863.5" y="233" text-anchor="middle" fill="#C6B5FF" font-family="monospace" font-size="14" font-weight="700">LLMs</text>
+
+  <rect x="925" y="210" width="125" height="36" rx="18" fill="#07101D" stroke="#00F7FF"/>
+  <text x="987.5" y="233" text-anchor="middle" fill="#00F7FF" font-family="monospace" font-size="14" font-weight="700">AI AGENTS</text>
+
+  <rect x="88" y="270" width="1018" height="58" rx="16" fill="#071222" stroke="#17395E"/>
+  <text x="110" y="293" fill="#6E89AF" font-family="monospace" font-size="13">CURRENT FOCUS</text>
+  <text x="110" y="314" fill="#FFFFFF" font-family="monospace" font-size="16">Backend • APIs • Automation • Artificial Intelligence • LLMs • MCP • Tool Calling</text>
+
+  <rect x="50" y="104" width="1090" height="34" fill="url(#scanGradient)" opacity="0.8">
+    <animate attributeName="y" values="104;300;104" dur="3.3s" repeatCount="indefinite"/>
   </rect>
 
-</g>
+  <rect x="50" y="120" width="1090" height="2" fill="#00F7FF" filter="url(#glow)">
+    <animate attributeName="y" values="120;316;120" dur="3.3s" repeatCount="indefinite"/>
+  </rect>
 
+  <text x="52" y="350" fill="#00F7FF" font-family="monospace" font-size="14">
+    &gt; scanning_profile...
+    <animate attributeName="opacity" values="1;0.35;1" dur="1s" repeatCount="indefinite"/>
+  </text>
 
-<!-- CANTOS HUD -->
-
-<path d="M35 90 V65 H60" stroke="#00FFFF" stroke-width="2">
-  <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite"/>
-</path>
-
-<path d="M1165 90 V65 H1140" stroke="#00FFFF" stroke-width="2">
-  <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
-</path>
-
-<path d="M35 350 V375 H60" stroke="#7C4DFF" stroke-width="2">
-  <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
-</path>
-
-<path d="M1165 350 V375 H1140" stroke="#7C4DFF" stroke-width="2">
-  <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
-</path>
-
-
-<!-- FOOTER -->
-
-<text
-  x="55"
-  y="390"
-  fill="#00FFFF"
-  font-family="monospace"
-  font-size="14"
->
-
-&gt; scanning_profile...
-
-<animate
-  attributeName="opacity"
-  values="1;0.35;1"
-  dur="1s"
-  repeatCount="indefinite"
-/>
-
-</text>
-
-<text
-  x="1140"
-  y="390"
-  text-anchor="end"
-  fill="#7C4DFF"
-  font-family="monospace"
-  font-size="14"
->
-
-SYSTEM_READY
-
-</text>
-
+  <text x="1144" y="350" text-anchor="end" fill="#7C4DFF" font-family="monospace" font-size="14">SYSTEM_READY</text>
 </svg>
