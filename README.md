@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=%3E+Backend+Developer;%3E+Python+%2F%2F+Java+%2F%2F+APIs;%3E+LLMs+%2F%2F+AI+Agents+%2F%2F+MCP;%3E+Open+to+Work_" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=%3E+Backend+Developer;%3E+Python+%2F%2F+Java+%2F%2F+APIs;%3E+LLMs+%2F%2F+AI+Agents+%2F%2F+MCP;%3E+Open+to+Work_" alt="Typing animation" />
 
 </div>
 
@@ -45,6 +45,37 @@
 <img src="https://img.shields.io/badge/REST_APIs-08111F?style=for-the-badge&logo=fastapi&logoColor=00F7FF" />
 <img src="https://img.shields.io/badge/Automation-08111F?style=for-the-badge&logo=githubactions&logoColor=00F7FF" />
 
+<br><br>
+
+Explorando aplicações backend conectadas a modelos de linguagem, automações, agentes de IA e ferramentas externas.
+
+<br>
+
+`LLM Integration` • `AI APIs` • `Tool Calling` • `Function Calling` • `MCP Servers` • `MCP Clients` • `Python Automation`
+
+</div>
+
+---
+
+<div align="center">
+
+### Currently Learning
+
+<img src="https://img.shields.io/badge/Python_Backend-08111F?style=flat-square&logo=python&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Java_%2B_Spring_Boot-08111F?style=flat-square&logo=springboot&logoColor=7C4DFF" />
+<img src="https://img.shields.io/badge/FastAPI-08111F?style=flat-square&logo=fastapi&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/REST_APIs-08111F?style=flat-square&logo=postman&logoColor=7C4DFF" />
+<img src="https://img.shields.io/badge/Docker-08111F?style=flat-square&logo=docker&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/PostgreSQL-08111F?style=flat-square&logo=postgresql&logoColor=7C4DFF" />
+<img src="https://img.shields.io/badge/Data_Modeling-08111F?style=flat-square&logo=databricks&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/LLM_APIs-08111F?style=flat-square&logo=openai&logoColor=7C4DFF" />
+<img src="https://img.shields.io/badge/AI_Agents-08111F?style=flat-square&logo=probot&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/MCP-08111F?style=flat-square&logo=socketdotio&logoColor=7C4DFF" />
+
+<br><br>
+
+<sub>Meu objetivo é transformar os estudos em projetos que simulem problemas reais encontrados no mercado.</sub>
+
 </div>
 
 ---
@@ -53,9 +84,7 @@
 
 ### GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marquessdann&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=C9D1D9&icon_color=7C4DFF" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquessdann&layout=compact&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=C9D1D9" />
+<img src="https://streak-stats.demolab.com?user=marquessdann&theme=transparent&hide_border=true&ring=00F7FF&fire=7C4DFF&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
@@ -76,5 +105,13 @@
 <a href="SEU_INSTAGRAM">
   <img src="https://img.shields.io/badge/Instagram-08111F?style=for-the-badge&logo=instagram&logoColor=7C4DFF" />
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1700&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&lines=PYTHON+%2F%2F+JAVA+%2F%2F+BACKEND+%2F%2F+APIs+%2F%2F+AI;LLMs+%2F%2F+AGENTS+%2F%2F+MCP+%2F%2F+AUTOMATION;%3E+system.ready_" alt="Footer animation" />
 
 </div>
