@@ -1,0 +1,74 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#040915"/>
+      <stop offset="1" stop-color="#0A1628"/>
+    </linearGradient>
+
+    <linearGradient id="stroke2" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F7FF"/>
+      <stop offset="0.5" stop-color="#7C4DFF"/>
+      <stop offset="1" stop-color="#00F7FF"/>
+    </linearGradient>
+
+    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#0E2540"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="22" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="1180" height="300" rx="18" stroke="#173152" stroke-width="2"/>
+  <rect x="28" y="28" width="1144" height="264" rx="16" fill="url(#dots)" opacity="0.3"/>
+
+  <rect x="34" y="34" width="1132" height="5" rx="2.5" fill="url(#stroke2)" filter="url(#glow2)"/>
+
+  <rect x="54" y="60" width="210" height="200" rx="20" fill="#0A1629" stroke="#173152"/>
+  <circle cx="159" cy="126" r="50" fill="#08111F" stroke="#00F7FF" stroke-width="2" filter="url(#glow2)"/>
+  <text x="159" y="136" text-anchor="middle" fill="#FFFFFF" font-family="monospace" font-size="34" font-weight="700">DM</text>
+
+  <rect x="88" y="194" width="142" height="34" rx="17" fill="#08111F" stroke="#7C4DFF"/>
+  <text x="159" y="216" text-anchor="middle" fill="#BCA8FF" font-family="monospace" font-size="14" font-weight="700">OPEN_TO_WORK</text>
+
+  <text x="308" y="104" fill="#FFFFFF" font-family="monospace" font-size="38" font-weight="700">DANIEL MARQUES</text>
+  <text x="308" y="134" fill="#8DA2C4" font-family="monospace" font-size="18">Backend Developer • Python • Java • AI</text>
+
+  <rect x="308" y="158" width="130" height="32" rx="16" fill="#08111F" stroke="#00F7FF"/>
+  <text x="373" y="178" text-anchor="middle" fill="#00F7FF" font-family="monospace" font-size="13" font-weight="700">PYTHON</text>
+
+  <rect x="450" y="158" width="110" height="32" rx="16" fill="#08111F" stroke="#7C4DFF"/>
+  <text x="505" y="178" text-anchor="middle" fill="#BCA8FF" font-family="monospace" font-size="13" font-weight="700">JAVA</text>
+
+  <rect x="572" y="158" width="120" height="32" rx="16" fill="#08111F" stroke="#00F7FF"/>
+  <text x="632" y="178" text-anchor="middle" fill="#00F7FF" font-family="monospace" font-size="13" font-weight="700">FASTAPI</text>
+
+  <rect x="704" y="158" width="152" height="32" rx="16" fill="#08111F" stroke="#7C4DFF"/>
+  <text x="780" y="178" text-anchor="middle" fill="#BCA8FF" font-family="monospace" font-size="13" font-weight="700">SPRING BOOT</text>
+
+  <rect x="868" y="158" width="94" height="32" rx="16" fill="#08111F" stroke="#00F7FF"/>
+  <text x="915" y="178" text-anchor="middle" fill="#00F7FF" font-family="monospace" font-size="13" font-weight="700">LLMs</text>
+
+  <rect x="974" y="158" width="122" height="32" rx="16" fill="#08111F" stroke="#7C4DFF"/>
+  <text x="1035" y="178" text-anchor="middle" fill="#BCA8FF" font-family="monospace" font-size="13" font-weight="700">AI AGENTS</text>
+
+  <rect x="308" y="214" width="238" height="48" rx="16" fill="#0A1629" stroke="#173152"/>
+  <text x="328" y="233" fill="#6D88B6" font-family="monospace" font-size="13">CURRENT FOCUS</text>
+  <text x="328" y="253" fill="#F4F7FF" font-family="monospace" font-size="15">Backend, APIs, Automation</text>
+
+  <rect x="562" y="214" width="238" height="48" rx="16" fill="#0A1629" stroke="#173152"/>
+  <text x="582" y="233" fill="#6D88B6" font-family="monospace" font-size="13">AI TRACK</text>
+  <text x="582" y="253" fill="#F4F7FF" font-family="monospace" font-size="15">LLMs, MCP, Tool Calling</text>
+
+  <rect x="816" y="214" width="280" height="48" rx="16" fill="#0A1629" stroke="#173152"/>
+  <text x="836" y="233" fill="#6D88B6" font-family="monospace" font-size="13">OBJECTIVE</text>
+  <text x="836" y="253" fill="#F4F7FF" font-family="monospace" font-size="15">Transform studies into real projects</text>
+
+  <text x="308" y="288" fill="#00F7FF" font-family="monospace" font-size="18" font-weight="700" filter="url(#glow2)">&gt; system.ready_</text>
+</svg>
