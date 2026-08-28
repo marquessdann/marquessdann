@@ -1,180 +1,270 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Daniel%20Marques&fontSize=45&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=%3E%20sudo%20whoami%20--verbose&descAlignY=55&descSize=18&descColor=00FF41" width="100%"/>
+# `> Hello World_` 👋 Eu sou o Daniel
 
-<br/>
+### Backend Developer • Python • Java • APIs • AI Automation
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=root%40marquessdann%3A~%23+init+backend_dev;%3E+status%3A+buscando+novas+oportunidades;%3E+estudando+Java+%2B+Python...+%5BOK%5D;%3E+aprendendo+arquitetura+de+software" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Development+%7C+Python+%7C+Java;REST+APIs+%7C+FastAPI+%7C+Spring+Boot;LLMs+%7C+AI+Agents+%7C+MCP+%7C+Automation;Building+projects+to+solve+real-world+problems" alt="Typing SVG" />
 
-</div>
+<br>
 
-<br/>
+`ADS Student` • `Backend` • `APIs` • `Automation` • `AI Integration`
 
-## `> cat sobre_mim.txt`
+<br>
 
-```python
-class Daniel:
-    def __init__(self):
-        self.nome = "Daniel Marques de Freitas"
-        self.cargo = "Desenvolvedor Back-End"
-        self.local = "Curitiba, PR - Brasil"
-        self.formacao = [
-            "Análise e Desenvolvimento de Sistemas - PUC PR",
-            "Ciências Contábeis - Unicesumar"
-        ]
-        self.estudando = ["Java", "Python", "Arquitetura de Software"]
-        self.status = "🔍 procurando oportunidades na área de desenvolvimento"
-
-    def diz_ola(self):
-        return "print('Olá, mundo!') 👋"
-
-daniel = Daniel()
-print(daniel.diz_ola())
-```
-
-- 👨🏻‍💻 Atualmente procurando por oportunidades na área de desenvolvimento
-- 📚 Estudando Java e Python
-- 🎯 Em constante aprendizado sobre arquitetura de software e Back-End
-
-<br/>
-
-<div align="center">
-
-## `> ls -la stack/`
-
-<img align="center" alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="TypeScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-<img align="center" alt="React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img align="center" alt="HTML5" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img align="center" alt="CSS3" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img align="center" alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="center" alt="C#" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img align="center" alt="Java" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="center" alt="Spring" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
-<img align="center" alt="Firebase" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
-<img align="center" alt="Git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img align="center" alt="MySQL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+🎯 **Atualmente buscando oportunidades como Desenvolvedor Backend / Python / Java Júnior.**
 
 </div>
 
-<br/>
+---
 
-<div align="center">
+## `01.` Sobre mim
 
-### `> top --stats`
+<pre>
+daniel@github:~$ whoami
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=marquessdann&show_icons=true&theme=dracula&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=marquessdann&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=marquessdann&show_icons=true&theme=dracula&hide_border=true" height="165"/>
-</picture>
+Software Engineer em formação.
+Estudante de Análise e Desenvolvimento de Sistemas.
+Construindo projetos focados em Backend, APIs, automação e Inteligência Artificial aplicada.
+</pre>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marquessdann&theme=dracula&hide_border=true" height="165"/>
+- Foco em **desenvolvimento Backend**
+- Estudando e desenvolvendo projetos com **Python e Java**
+- Desenvolvimento e consumo de **APIs REST**
+- Construção de pequenos **serviços backend**
+- Automações utilizando **Python**
+- Integração de aplicações com **Inteligência Artificial**
+- Integração com **LLMs — Large Language Models**
+- Consumo de **APIs de modelos de linguagem**
+- Desenvolvimento de aplicações utilizando **LLMs**
+- Exploração de **AI Agents / Agentes de IA**
+- Uso de **Tool Calling / Function Calling**
+- Estudos e projetos com **MCP — Model Context Protocol**
+- Integração de ferramentas externas com agentes de IA
+- Banco de dados e **modelagem de dados**
+- Interesse em **arquitetura de software** e **sistemas distribuídos**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquessdann&layout=compact&theme=dracula&hide_border=true" height="165"/>
+---
+
+## `02.` 🤖 AI, LLMs & Automation
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=probot&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=robotframework&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=protocols&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
 
 </div>
 
-<br/>
+> Explorando aplicações backend conectadas a modelos de linguagem, automações, agentes de IA e ferramentas externas.
 
-<div align="center">
+<pre>
+AI_PIPELINE/
+├── LLM Integration
+├── AI APIs
+├── Tool Calling
+├── Function Calling
+├── AI Agents
+├── MCP Servers
+├── MCP Clients
+├── Backend APIs
+└── Automation
+</pre>
 
-### `> git log --graph --oneline`
+- Integração de **LLMs em aplicações Python**
+- Consumo de **APIs de Inteligência Artificial**
+- Construção de agentes com acesso a **tools**
+- **Function Calling / Tool Calling**
+- Estudos com **MCP Servers e MCP Clients**
+- Automações utilizando **Python + IA**
+- APIs backend para aplicações com Inteligência Artificial
+- Processamento e estruturação de dados utilizando modelos de linguagem
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marquessdann&theme=dracula&hide_border=true" width="100%"/>
+---
 
-</div>
+## `03.` 🧰 Tech Stack
 
-<br/>
+### Backend
 
-<div align="center">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="45" alt="FastAPI" title="FastAPI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="45" alt="Spring Boot" title="Spring Boot" />
+</p>
 
-### `> ./snake.sh --animate`
+### Web
 
-<!--START_SECTION:waving-snake-->
-<img src="https://raw.githubusercontent.com/marquessdann/marquessdann/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<!--END_SECTION:waving-snake-->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="42" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="42" alt="CSS3" title="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="42" alt="React" title="React" />
+</p>
 
-<sub>⚙️ animação gerada via GitHub Action <code>Platane/snk</code> — veja o passo a passo no final deste arquivo</sub>
+### Banco de Dados
 
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="42" alt="MySQL" title="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="42" alt="SQLite" title="SQLite" />
+</p>
 
-<br/>
+### APIs & Integrações
 
-## `> whoami --projects`
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman" title="Postman" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" alt="Swagger" title="Swagger / OpenAPI" />
+</p>
+
+### IA & Automação
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=probot&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=robotframework&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=protocols&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+</p>
+
+### Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="42" alt="GitHub" title="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="42" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" alt="VS Code" title="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="42" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+</p>
+
+---
+
+## `04.` 📚 Atualmente estudando
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 API de Autenticação JWT
-Backend Java com autenticação segura via JSON Web Tokens.
+### Backend
 
-`Java` `Spring Boot` `JWT` `REST API`
+- Python aplicado a Backend
+- Java + Spring Boot
+- FastAPI
+- APIs REST
+- Arquitetura Backend
+- Banco de Dados
+- Modelagem de Dados
+- Docker
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔥 React + Firebase App
-Sistema com telas de Cadastro, Login e Área Principal.
+### AI Engineering
 
-`React` `Firebase` `JavaScript`
+- Integração com LLMs
+- LLM APIs
+- AI Agents
+- MCP
+- Tool Calling
+- Function Calling
+- Automação com Python
+- Python + IA
 
 </td>
 </tr>
 </table>
 
-<br/>
+> **Meu objetivo é transformar os estudos em projetos que simulem problemas reais encontrados no mercado.**
+
+---
+
+## `05.` 📊 GitHub Runtime
 
 <div align="center">
 
-### `> ping contato`
+<a href="https://github.com/marquessdann">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marquessdann&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" />
+</a>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marquessdann)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yvUQHH2yF9)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danigtba@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marques-68870b211/)
-[![GitHub](https://img.shields.io/badge/-marquessdann-181717?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/marquessdann)
+<a href="https://github.com/marquessdann">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquessdann&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</a>
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=marquessdann&style=for-the-badge&color=00FF41&labelColor=0d1117" />
+<a href="https://github.com/marquessdann">
+  <img src="https://streak-stats.demolab.com?user=marquessdann&theme=github-dark-blue&hide_border=true&background=0D1117" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/marquessdann">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marquessdann&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" />
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+---
 
+## `06.` 📫 Onde me encontrar
 
-name: Generate Snake Animation
+<div align="left">
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+<a href="SEU_LINK_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate the snake game SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: marquessdann
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
-      - name: Push output to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<a href="SEU_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<pre>
+┌──────────────────────────────────────────────────────────┐
+│ daniel@backend:~$ status                                 │
+│                                                          │
+│ [✓] studying backend                                     │
+│ [✓] building APIs                                        │
+│ [✓] exploring AI integrations                            │
+│ [✓] learning LLMs, Agents & MCP                          │
+│ [>] looking for junior development opportunities_        │
+└──────────────────────────────────────────────────────────┘
+</pre>
+
+<sub>Python • Java • Backend • APIs • Automation • AI</sub>
+
+</div>
