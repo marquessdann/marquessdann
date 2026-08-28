@@ -82,16 +82,6 @@ Explorando aplicações backend conectadas a modelos de linguagem, automações,
 
 <div align="center">
 
-### GitHub Stats
-
-<img src="https://streak-stats.demolab.com?user=marquessdann&theme=transparent&hide_border=true&ring=00F7FF&fire=7C4DFF&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-<div align="center">
-
 ### Contact
 
 <a href="SEU_LINK_LINKEDIN">
